@@ -1,74 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.2756 841.8898] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
 endobj
 6 0 obj
-<< /Length 1840 >>
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260919003202+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919003202+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 290
+>>
 stream
-BT
-/F1 18 Tf
-50 800 Td
-(INDIVIDUAL REFLECTION) Tj
-0 -30 Td
-/F2 15 Tf
-(Retail Category Intelligence ? MUC01) Tj
-0 -30 Td
-/F1 12 Tf
-0 -18 Td
-/F1 11 Tf
-(ARJA MANISH ? Sales Timing & Trends) Tj
-0 -18 Td
-0 -18 Td
-/F2 12 Tf
-(My Contribution) Tj
-0 -18 Td
-0 -18 Td
-/F1 11 Tf
-(In this project, I mainly worked on the sales timing and trends analysis. My part was to understand when the business was generating more revenue by comparing the weekday and monthly patterns. I focused on identifying the strongest and weakest sales days and months, including the performance of Electronics. One finding that stood out to me was that Saturday had the highest average daily revenue, while Tuesday was the lowest. January was the strongest month, while June was the weakest, and Electronics also showed a noticeable decline during this period. I used these findings to provide useful timing signals for the team's analysis and recommendations.) Tj
-0 -18 Td
-0 -18 Td
-/F2 12 Tf
-(What I Learned from My Teammates) Tj
-0 -18 Td
-0 -18 Td
-/F1 11 Tf
-(I learned something useful from each of my teammates while working on this project. From Akash, I understood that cleaning and validating the data is very important before starting any analysis. From Ashika, I learned how product-level analysis can provide more detail than simply looking at overall sales patterns. From Pavithra, I learned how different findings can be connected to form clear business insights and recommendations. Working together also helped me understand why observed sales patterns should be treated as useful signals rather than direct proof of causation.) Tj
-0 -18 Td
-0 -18 Td
-/F2 12 Tf
-(Key Takeaway) Tj
-0 -18 Td
-0 -18 Td
-/F1 11 Tf
-(This project helped me understand how sales timing and trend analysis can provide useful signals for business planning and decision-making.) Tj
-0 -18 Td
-ET
-endstream
+GasJK_+qm%&4H!_ME/+9KXeB]H:9;"\01SP9X77Fg.q/b<;CmlKgpY%>%qR8Gi%d:'N45MCC`OA4?P-m%<Mucc*u''39]]R;a3Kj$>$4-WnLP6&>?T@Z-1(d(7YB;TJd0-JQ=E\6^naWMj`2D8*IQQJ!9`"n6#[ZTZVZV*?t@rl+P%!hD3Ar3)Vo6-[2ElShPkQ,*+'-k_BPu3+@itgX%)Qa%4WQ0Q(J'e0ZH^VesApe4pKi4&Hm_&9$m<hC#a_=9>$"iPoW2[VU_<n'+F9q4DGbI/u@&AnV~>endstream
 endobj
 xref
-0 7
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000064 00000 n 
-0000000121 00000 n 
-0000000267 00000 n 
-0000000337 00000 n 
-0000000412 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000872 00000 n 
+0000000931 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<<
+/ID 
+[<ee1155f7a67fb100760340fe29d7be13><ee1155f7a67fb100760340fe29d7be13>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
 startxref
-2304
+1311
 %%EOF
